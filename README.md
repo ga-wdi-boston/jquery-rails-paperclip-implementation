@@ -3,7 +3,7 @@
 
 ### Introduction
 
-Although the Paperclip gem provides a relatively simple way to implement image upload into an app, sending an image from the client to the API is tricky. This repo is an example of how accomplish this. The clientside implementation can be found in the public folder of the app.
+Although the Paperclip gem provides a relatively simple way to implement image upload into an app, sending an image from the client to the API is tricky. This repo is an example of how accomplish this. The client side implementation can be found in the public folder of the app.
 
 ### Interesting Code
 
